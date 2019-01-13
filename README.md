@@ -1,4 +1,4 @@
-# Programación Competitiva
+﻿# Programación Competitiva
 
 Aquí almacenaré todos los problemas de programación competitiva que resuelva. Se llevará una lista con los problemas resueltos y si es posible un resumen de su solución, o al menos de los algoritmos utilizados para resolverlo. 
 
@@ -100,4 +100,9 @@ A continuación los problemas, separados por sitio web.
 	- Dificultad: Fácil
 * 994 A: Fingerprints
 	- Dificultad: Muy fácil
+* 1102 A: Integer Sequence Dividing
+	- Dificultad: Muy Fácil
+* 1102 B: Array K-Coloring
+	- Dificultad: Fácil
+	- Técnica: Sort guardando posiciones iniciales
 
