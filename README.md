@@ -105,4 +105,6 @@ A continuación los problemas, separados por sitio web.
 * 1102 B: Array K-Coloring
 	- Dificultad: Fácil
 	- Técnica: Sort guardando posiciones iniciales
+* 1102 C: Doors Breaking and Repairing
+	- Dificultad: Fácil
 
